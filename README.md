@@ -17,8 +17,7 @@
 <a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=plastic&logo=Tistory&logoColor=white"/></a>
 
 
-호기심 많은 탐색형 개발자 양미옥입니다.<br>
-디자인부터 개발까지 능력있는 개발자가 되기 위해 오늘도 꾸준히 배워나갑니다.
+호기심 많은 디자이너 양미옥입니다.<br>
 
 <br>
 
