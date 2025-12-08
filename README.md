@@ -7,7 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/99234582/189823876-72e0a762-bb3b-4da4-a880-7327d4195658.png" width="30%"/> 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miogyFhit-counter&count_bg=%23FFFC4F&title_bg=%23A4A4A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
 
@@ -15,7 +14,7 @@
  
 
 <a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Ti-story-E4405F?style=plastic&logo=Ti-story&logoColor=white"/></a>
+<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Ti story-orange?style=plastic&logo=Ti story&logoColor=white"/></a>
 
 
 호기심 많은 탐색형 개발자 양미옥입니다.<br>
