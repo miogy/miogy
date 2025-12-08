@@ -14,7 +14,7 @@
  
 
 <a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TiStory-orange?style=plastic&logo=TiStory&logoColor=white"/></a>
+<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=plastic&logo=Tistory&logoColor=white"/></a>
 
 
 호기심 많은 탐색형 개발자 양미옥입니다.<br>
