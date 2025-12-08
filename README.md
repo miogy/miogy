@@ -14,7 +14,8 @@
 ## 안녕하세요!! MIOGY입니다 🤟🏼
  
 
-<a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/jjangrl87" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=plastic&logo=NAVER&logoColor=white"/></a> <a href="https://velog.io/@miogy" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Ti-story-E4405F?style=plastic&logo=Ti-story&logoColor=white"/></a>
 
 
 호기심 많은 탐색형 개발자 양미옥입니다.<br>
