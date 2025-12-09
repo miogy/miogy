@@ -48,6 +48,4 @@
 <hr>
 <br>
 
-![MIOGY's github stats](https://github-readme-stats.vercel.app/api?username=miogy&show_icons=true&theme=aura) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)
-
 </div>
