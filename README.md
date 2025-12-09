@@ -14,7 +14,7 @@
  
 
 <a href="https://www.instagram.com/mi_ogy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=plastic&logo=Tistory&logoColor=white"/></a>
+<a href="https://miogy1spoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Ti%20story-orange?style=plastic&logo=Tistory&logoColor=white"/></a>
 
 
 호기심 많은 디자이너 양미옥입니다.<br>
@@ -41,12 +41,10 @@
 
 ### 🎨 - Graphic
 
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 
 <br>
